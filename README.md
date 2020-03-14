@@ -1,0 +1,1 @@
+1. run the file through the following command: ```python3 permutations.py input.csv```
